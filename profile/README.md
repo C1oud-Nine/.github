@@ -34,6 +34,6 @@
 - Spring Cloud Eureka를 사용하여 서비스 디스커버리 및 로드밸런싱
 - 파드별 CPU 사용량을 기준으로 Autoscaling 적용
 - Prometheus로 클러스터의 리소스를 모니터링하고 Zipkin으로 트랜잭션 흐름 모니터링
-# 4. 소개 및 시연 영상
+# 4. 소개 영상
 [![2023년 전기 졸업과제 24 클라우드나인](https://img.youtube.com/vi/SdUjcxSy9Gw/mqdefault.jpg)](https://www.youtube.com/watch?v=SdUjcxSy9Gw)
 
